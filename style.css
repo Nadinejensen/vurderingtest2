@@ -1,0 +1,38 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+#main {
+	justify-content:center ;
+	display: flex;
+	flex-direction: row;
+	height: 80vh;
+}
+
+.flexbox {
+	padding: 5%;
+	margin: 5%;
+	background-color: dimgray;
+	height: 40vh;
+	border-radius: 10px;
+
+
+}
+
+header {
+	height: 10vh;
+	text-align: center;
+	background-color: lightgray;
+}
+
+footer {
+	height: 10vh;
+	background-color: lightgray;
+}
+
+h1 {
+	margin: 1px;
+	padding: 1px;
+	color: dimgray;
+}
